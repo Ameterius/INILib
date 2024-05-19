@@ -1,0 +1,2 @@
+# INILib
+Либа для SHLauncher

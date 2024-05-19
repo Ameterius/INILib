@@ -39,7 +39,7 @@ IniFile.IniFile(string FileName.ini);
 ```csharp
 IniFile.IniWriteValue(string section, string key, string value);
 ```
-> В случае отсутствия секции, ключа они будут созданы с такими именами, которые они имеют методе
+> В случае отсутствия секции, ключа они будут созданы с такими именами, которые они имеют в методе
 
 *Чтение значения ключа*
 ```csharp
